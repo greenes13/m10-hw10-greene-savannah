@@ -6,3 +6,25 @@
   opacity: 1;
   transition: opacity 1s;
 }
+
+header, main, footer {
+  text-align: center;
+  color: #fff;
+}
+
+header {
+  text-transform: uppercase;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+
+section, h2 {
+  padding: 15px;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+body {background-color: #000;
+}
